@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="440" font-family="Arial, sans-serif" font-size="14">
+<rect width="100%" height="100%" fill="white"/>
+<text x="410.0" y="28" text-anchor="middle" font-size="17" font-weight="bold">Kite diagram: species abundance along a transect</text>
+<polygon points="110.0,58.0 170.0,62.0 230.0,70.0 290.0,78.0 350.0,86.0 410.0,90.0 470.0,90.0 530.0,90.0 590.0,90.0 650.0,90.0 710.0,90.0 710.0,90.0 650.0,90.0 590.0,90.0 530.0,90.0 470.0,90.0 410.0,90.0 350.0,94.0 290.0,102.0 230.0,110.0 170.0,118.0 110.0,122.0" fill="#2e8b57"/>
+<line x1="110" y1="90.0" x2="710" y2="90.0" stroke="black" stroke-width="1"/>
+<text x="100" y="95.0" text-anchor="end">Species A</text>
+<polygon points="110.0,170.0 170.0,170.0 230.0,166.0 290.0,158.0 350.0,150.0 410.0,146.0 470.0,150.0 530.0,158.0 590.0,166.0 650.0,170.0 710.0,170.0 710.0,170.0 650.0,170.0 590.0,174.0 530.0,182.0 470.0,190.0 410.0,194.0 350.0,190.0 290.0,182.0 230.0,174.0 170.0,170.0 110.0,170.0" fill="#2e8b57"/>
+<line x1="110" y1="170.0" x2="710" y2="170.0" stroke="black" stroke-width="1"/>
+<text x="100" y="175.0" text-anchor="end">Species B</text>
+<polygon points="110.0,250.0 170.0,250.0 230.0,250.0 290.0,250.0 350.0,250.0 410.0,246.0 470.0,238.0 530.0,230.0 590.0,222.0 650.0,226.0 710.0,234.0 710.0,266.0 650.0,274.0 590.0,278.0 530.0,270.0 470.0,262.0 410.0,254.0 350.0,250.0 290.0,250.0 230.0,250.0 170.0,250.0 110.0,250.0" fill="#2e8b57"/>
+<line x1="110" y1="250.0" x2="710" y2="250.0" stroke="black" stroke-width="1"/>
+<text x="100" y="255.0" text-anchor="end">Species C</text>
+<polygon points="110.0,322.0 170.0,318.0 230.0,318.0 290.0,322.0 350.0,322.0 410.0,326.0 470.0,326.0 530.0,322.0 590.0,318.0 650.0,322.0 710.0,326.0 710.0,334.0 650.0,338.0 590.0,342.0 530.0,338.0 470.0,334.0 410.0,334.0 350.0,338.0 290.0,338.0 230.0,342.0 170.0,342.0 110.0,338.0" fill="#2e8b57"/>
+<line x1="110" y1="330.0" x2="710" y2="330.0" stroke="black" stroke-width="1"/>
+<text x="100" y="335.0" text-anchor="end">Species D</text>
+<line x1="110" y1="370" x2="710" y2="370" stroke="black"/>
+<line x1="110.0" y1="370" x2="110.0" y2="376" stroke="black"/>
+<text x="110.0" y="392" text-anchor="middle">0</text>
+<line x1="170.0" y1="370" x2="170.0" y2="376" stroke="black"/>
+<text x="170.0" y="392" text-anchor="middle">2</text>
+<line x1="230.0" y1="370" x2="230.0" y2="376" stroke="black"/>
+<text x="230.0" y="392" text-anchor="middle">4</text>
+<line x1="290.0" y1="370" x2="290.0" y2="376" stroke="black"/>
+<text x="290.0" y="392" text-anchor="middle">6</text>
+<line x1="350.0" y1="370" x2="350.0" y2="376" stroke="black"/>
+<text x="350.0" y="392" text-anchor="middle">8</text>
+<line x1="410.0" y1="370" x2="410.0" y2="376" stroke="black"/>
+<text x="410.0" y="392" text-anchor="middle">10</text>
+<line x1="470.0" y1="370" x2="470.0" y2="376" stroke="black"/>
+<text x="470.0" y="392" text-anchor="middle">12</text>
+<line x1="530.0" y1="370" x2="530.0" y2="376" stroke="black"/>
+<text x="530.0" y="392" text-anchor="middle">14</text>
+<line x1="590.0" y1="370" x2="590.0" y2="376" stroke="black"/>
+<text x="590.0" y="392" text-anchor="middle">16</text>
+<line x1="650.0" y1="370" x2="650.0" y2="376" stroke="black"/>
+<text x="650.0" y="392" text-anchor="middle">18</text>
+<line x1="710.0" y1="370" x2="710.0" y2="376" stroke="black"/>
+<text x="710.0" y="392" text-anchor="middle">20</text>
+<text x="410.0" y="420" text-anchor="middle">Distance along transect (m)</text>
+</svg>
