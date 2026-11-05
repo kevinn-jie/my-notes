@@ -1,5 +1,7 @@
 # IB Environmental Systems and Societies SL
 
+
+
 ## Table of Contents
 
 1. [Topic 1: Foundations of Environmental Systems and Societies](#topic-1-foundations-of-environmental-systems-and-societies)
@@ -15,7 +17,11 @@
 3. [Topic 3: Biodiversity and Conservation](#topic-3-biodiversity-and-conservation)
     1. [3.1: Biodiversity and Evolution](#31-biodiversity-and-evolution)
 
+
+
 <br>
+
+
 
 ## Topic 1: Foundations of Environmental Systems and Societies
 
@@ -25,13 +31,17 @@
     * **Instrumental**: means to a desired end
     * **Intrinsic**: assigned values; worth protecting
     * **Relational**: people-nature interactions & interactions of people via nature
+
 * **Value indicators**: quantitative/qualitative, reflecting nature's importance
+
 * **Indigenous/local knowledge systems**: traditional knowledge; diverse/grounded in sociocultural identity
+
 * Types of worldviews
     * **Imperialistic**: science is to control nature
     * **Stewardship**: humans are to look after nature
     * **Romantic**: nature is valuable because it's beautiful
     * **Utilitarian**: nature can do a lot for humans
+
 * **Environmental Value System (EVS)**: environmental perspectives
     * **Ecocentric**
         * Soft/self-reliant ecologists
@@ -42,7 +52,11 @@
     * **Technocentric**
         * Cornucopian
 
+
+
 <br>
+
+
 
 ### 1.2: Systems
 
@@ -54,14 +68,20 @@
     * **Synergy**: emergent behavior
     * **Reductionism**
     * **Holism**: parts of a whole; interconnected
+
 * Equilibria types
     * **Steady-state**: average condition is unchanged
     * **Dynamic**: balance between reversible processes
     * **Stable**
     * **Unstable**
+
 * **Resilience vs. resistance**: resilience is getting back to normal, resistance is ability to ignore change
 
+
+
 <br>
+
+
 
 ### 1.3: Sustainability
 
@@ -70,13 +90,20 @@
     * Measured 24 environmental indicators
     * Was to assess consequences of ecosystem change for human wellbeing
     * Found that ecosystems have rapidly changed in the past 50 years; substantial loss of biodiversity
+
 * **Ecological footprint (EF)**
     * Area of land/water required to sustainably provide resources
     * EF > area available = unsustainable
+
 * **Biocapacity**: planet's productive land that can assimilate waste
+
 * **Overshoot**: exceeding biocapacity
 
+
+
 <br>
+
+
 
 ## Topic 2: Ecology
 
@@ -85,82 +112,93 @@
 * **Species (spp)**
     * Organisms that can interbreed/produce fertile young
     * Cross-breeding does not result in new spp; a hybrid
+
 * **Population**: individuals of same species in same area at same time
+
 * **Natural increase rate (NIR/RNI)**
     * $\text{NIR} = \dfrac{\text{birth rate} - \text{death rate}}{10}$
         * Birth/death rate are per 1000 individuals
     * Main cause of change is death or emigration
+
 * **Taxonomy**: naming, conception, and classification of groups of organisms
     * **Dichotomous key**: identification of spp in binary steps
     * **Cladogram**: branching diagram; evolutionary relations
+
 * Intra/interspecific and in/ex situ
     * **Intraspecific**: within a spp
     * **Interspecific**: between spp
     * **In situ**: within a spp's natural environment
     * **Ex situ**: outside of a spp's natural environment
+
 * **Community**: group of populations interacting in a common habitat
+
 * **Habitat**: natural environment a spp lives in
+
 * **Niche**: set of abiotic/biotic conditions/resources necessary for an organism to survive
     * **Realized niche**: actual set of environmental conditions
     * **Fundamental niche**: full set of environmental conditions; theoretical included
+
 * **Carrying capacity (K)**
     * Population of a spp an area can support without environmental degradation
     * $\text{EF} \propto \dfrac{1}{K}$
+
 * **Density-dependent/-independent factors**: environmental conditions that regulate population growth based on how crowded a population is
+
 * Population growth curves
     * **Linear**
     * **J-curve**: exponential
     * **S-curve**: logistic/sigmoidal
+
 * **Verhulst equation**: models population growth with limited resources
+    * $\frac{dN}{dt} = rN\left(1 - \frac{N}{K}\right)$
+        * **N**: individuals
+        * **r**: growth rate (NIR)
 
-    $$\frac{dN}{dt} = rN\left(1 - \frac{N}{K}\right)$$
-
-    * **N**: individuals
-    * **r**: growth rate (NIR)
 * **Lotka-Volterra competition equation**: model equation for the population growth of a species interacting with another
+    * $\frac{dN_1}{dt} = r_1 N_1 \left(\frac{K_1 - N_1 - \alpha N_2}{K_1}\right) \quad \text{and} \quad \frac{dN_2}{dt} = r_2 N_2 \left(\frac{K_2 - N_2 - \beta N_1}{K_2}\right)$
+        * **α/β**: competition coefficients
 
-    $$\frac{dN_1}{dt} = r_1 N_1 \left(\frac{K_1 - N_1 - \alpha N_2}{K_1}\right) \quad \text{and} \quad \frac{dN_2}{dt} = r_2 N_2 \left(\frac{K_2 - N_2 - \beta N_1}{K_2}\right)$$
-
-    * **α/β**: competition coefficients
 * **Biogeography equation**: represents equilibrium number of species from the Theory of Island Biogeography
+    * $S = \frac{PI}{I + E}$
+        * **P**: source pool of species available on nearby mainland; maximum possible number of species that could inhabit the island
+        * **I**: maximum immigration rate
+        * **E**: maximum extinction rate
 
-    $$S = \frac{PI}{I + E}$$
-
-    * **P**: source pool of species available on nearby mainland; maximum possible number of species that could inhabit the island
-    * **I**: maximum immigration rate
-    * **E**: maximum extinction rate
 * **Species-area relationship**: describes how the number of species increases as the size of a surveyed habitat grows
+    * $S = cA^z \quad \text{or} \quad \log(S) = \log(c) + z\log(A)$
+        * **c**: constant dependent on one spp in one unit area
+        * **z**: gradient of the spp-area relationship in log-log space
+        * **A**: habitat area
 
-    $$S = cA^z \quad \text{or} \quad \log(S) = \log(c) + z\log(A)$$
-
-    * **c**: constant dependent on one spp in one unit area
-    * **z**: gradient of the spp-area relationship in log-log space
-    * **A**: habitat area
 * **Malthusian K-model**
     * Exponential population vs. linear food
     * **Malthusian catastrophe**: population crossed food; population declines rapidly
+
 * **Boserup (Qay's Theory) K-model**
     * Exponential population vs. stepwise food growth
     * Food pressure increases production
+
 * **Transects**
     * Straight line
     * Object/natural feature
+
 * **Quadrats**
     * Grids
     * Usually 1 square meter
     * Usually for population density
+
 * **Kite graphs**: distribution along gradient
 
     ![Kite graph](images/kite_graph.svg)
 
 * **Lincoln-Petersen Index**
+    * $N = \frac{M \times C}{R}$
+        * **M**: captured/released first time
+        * **C**: captured second time
+        * **R**: recaptured second time
 
-    $$N = \frac{M \times C}{R}$$
-
-    * **M**: captured/released first time
-    * **C**: captured second time
-    * **R**: recaptured second time
 * **Ecosystem**: community with physical environment
+
 * **Sankey diagrams**
 
     ![Sankey diagram](images/sankey_diagram.png)
@@ -169,52 +207,72 @@
     * **Inertia**: resistance
     * **Resilience**
     * **Diversity**
+
 * **Keystone (umbrella) species**: important to food chain/environment
 
+
+
 <br>
+
+
 
 ### 2.2: Energy and Biomass in Ecosystems
 
 * **Insolation (irradiance)**: solar radiation in area, including EM
+
 * **Attenuation**: gradual loss of intensity
+
 * Laws of thermodynamics
     * **Zeroth**: if two systems are in thermal equilibrium with a third, they are in equilibrium with each other
     * **Second**: entropy of a system will increase the longer that system is in place
     * **Third**: there is no practical means to reach absolute zero (0 K)
+
 * Productivity
     * **Gross productivity (GP)**: total gain in biomass per unit area per unit time
     * **Net productivity (NP)**: gain by producers in energy or biomass per unit area per unit time
+
 * Biomagnification vs. bioaccumulation
     * **Biomagnification**: across food chain
     * **Bioaccumulation**: across trophic level
+
 * **Net/Gross Primary Productivity**
+    * $NPP = GPP - R$
+        * **Net Primary Productivity (NPP)**: harvestable energy; biomass
+        * **Gross Primary Productivity (GPP)**: energy from photosynthesis
+        * **Respiratory losses (R)**: accounts for plant respiration
 
-    $$NPP = GPP - R$$
-
-    * **Net Primary Productivity (NPP)**: harvestable energy; biomass
-    * **Gross Primary Productivity (GPP)**: energy from photosynthesis
-    * **Respiratory losses (R)**: accounts for plant respiration
 * **Net/Gross Secondary Productivity**
-
-    $$NSP = GSP - R$$
-
-    $$GSP = \text{food eaten} - \text{fecal loss}$$
+    * $NSP = GSP - R$
+    * $GSP = \text{food eaten} - \text{fecal loss}$
 
 * **Maximum Sustainable Yield (MSY)**: highest rate equal to NPP/NSP
+
 * **Carrying capacity & thermodynamics**: second law; closest to producers have higher carrying capacity
 
+
+
 <br>
+
+
 
 ### 2.3: Biogeochemical Cycles
 
 * **CHONPS**: required by life: carbon, hydrogen, oxygen, nitrogen, phosphorus, sulfur
+
 * **Sequestration**: capturing and storing
+
 * **Distillation**: separation/purification
+
 * **Ammonification**: decomposers break down organic nitrogen into ammonia
+
 * **Nitrogen fixation**: converting atmospheric nitrogen into nitrate/ammonia
+
 * **Nitrification**: oxidation of ammonia; ammonia to nitrite, nitrite to nitrate
+
 * **Denitrification**: removal of oxygen from nitrate; nitrate to dinitrogen
+
 * **Storages**: where energy, matter, or water is stored for a period of time
+
 * **Carbon cycle**: producers; fast
 
     ![Carbon cycle](images/carbon_cycle.png)
@@ -228,23 +286,29 @@
     ![Phosphorus cycle](images/phosphorus_cycle.jpg)
 
 * **Haber-Bosch process**: synthesizing ammonia from atmospheric nitrogen/hydrogen
+
 * **Residence time equation**
+    * $\tau = \frac{m}{F_{out} + L + D}$
+        * **τ**: lifetime of atmospheric species
+        * **m**: mass
+        * **F<sub>out</sub>**: sum of flow out of system
+        * **L**: chemical loss in reactions
+        * **D**: deposition
 
-    $$\tau = \frac{m}{F_{out} + L + D}$$
 
-    * **τ**: lifetime of atmospheric species
-    * **m**: mass
-    * **F<sub>out</sub>**: sum of flow out of system
-    * **L**: chemical loss in reactions
-    * **D**: deposition
 
 <br>
+
+
 
 ### 2.4: Climate and Biomes
 
 * **Climatology**: climate; weather in area; long-term
+
 * **Meteorology**: weather; short-term
+
 * **Biomes**: large geographic areas with unique climate
+
 * **Holdridge life zones**
 
     ![Holdridge life zones](images/holdridge_life_zones.png)
@@ -261,6 +325,7 @@
     ![Tricellular model](images/tricellular_model.png)
 
 * **Rain shadows**: other side of mountains where rain is blocked from
+
 * Climate types
     * **Tropical**
         * **Seasonal**: high rainfall; dry seasons; monsoons
@@ -269,6 +334,7 @@
         * **Maritime**: dry summer; mild-wet winters
         * **Continental**: greater temperatures inland
     * **Polar**
+
 * **Walker circulation**: latitudinal differences
     * Stronger during La Niña
     * Weaker during El Niño
@@ -281,11 +347,16 @@
         * **La Niña**: cool; 1–3 years
     * Changes due to surface temperature, atmospheric pressure, and other weather patterns
 
+
+
 <br>
+
+
 
 ### 2.5: Zonation, Succession, and Change in Ecosystems
 
 * **Zonation**: distribution of species according to parameters, characterized by dominant species; change in spp along environmental gradient
+
 * **Soil horizons**: OAEBCR
     * **O**: organic
     * **A**: topsoil
@@ -293,19 +364,27 @@
     * **B**: subsoil
     * **C**: parent rock
     * **R**: bedrock
+    
 * Types of transects
     * Point sampling
     * Continuous belt
     * Interrupted belt
+    
 * **R-strategists**: rapid reproduction, smaller
+
 * **K-strategists**: slower reproduction, bigger
+
 * **Plagioclimax**: human-impacted climax community
+
 * **Diffusion**: populations expanding
+
 * **Secular migration**: slow biological dispersal
+
 * Succession stages
     * **Early**: diffusion and secular migration; r-strategists
     * **Intermediate**: k-strategists
     * **Late**: climax community; dynamic/steady-state equilibrium; plagioclimax
+    
 * **Seral communities**: communities succeeding each other in a location; seral stages
     * **Hydrosere**: water
     * **Lithosere**: land
@@ -313,27 +392,14 @@
     * **Xerosere**: dry area
     * **Halosere**: marsh; saline bodies
 
+
+
 <br>
+
+
 
 ## Topic 3: Biodiversity and Conservation
 
 ### 3.1: Biodiversity and Evolution
 
 * 
-
-<br>
-
----
-
-#### Image Sources
-
-All images except the kite graph are from Wikimedia Commons:
-
-* Sankey diagram: [JIE Sankey V5 Fig1.png](https://commons.wikimedia.org/wiki/File:JIE_Sankey_V5_Fig1.png) (public domain)
-* Carbon cycle: [Carbon cycle-cute diagram.svg](https://commons.wikimedia.org/wiki/File:Carbon_cycle-cute_diagram.svg) (public domain)
-* Nitrogen cycle: [Nitrogen Cycle.svg](https://commons.wikimedia.org/wiki/File:Nitrogen_Cycle.svg) (CC BY-SA 3.0)
-* Phosphorus cycle: [Phosphorus Cycle copy.jpg](https://commons.wikimedia.org/wiki/File:Phosphorus_Cycle_copy.jpg) (CC BY 3.0)
-* Holdridge life zones: [Lifezones Pengo.svg](https://commons.wikimedia.org/wiki/File:Lifezones_Pengo.svg) (CC BY-SA 4.0)
-* Climatograph: [Climate-dallas.png](https://commons.wikimedia.org/wiki/File:Climate-dallas.png) (CC BY 3.0)
-* Tricellular model: [AtmosphCirc2.svg](https://commons.wikimedia.org/wiki/File:AtmosphCirc2.svg) (CC0)
-* Walker circulation: [ENSO - normal.svg](https://commons.wikimedia.org/wiki/File:ENSO_-_normal.svg) (public domain, NOAA)
