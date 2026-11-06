@@ -44,16 +44,16 @@
 
 * **IB papers**
     * **Paper 1 (20%)**: source-based; 1 hour; 24 marks; Prescribed Subject 3: The Move to Global War
-        * Case studies: Japan (1931–1941) & Germany/Italy (1933–1940); know both
+        * Case studies: Japan (1931–1941) and Germany/Italy (1933–1940); know both
         * **Q1a (3 marks)**: comprehend/extract from one source (usually text); three distinct points; no own knowledge
         * **Q1b (2 marks)**: interpret message of a source (usually visual); two distinct points; no own knowledge
         * **Q2 (4 marks)**: OPCVL
-        * **Q3 (6 marks)**: compare & contrast
+        * **Q3 (6 marks)**: compare and contrast
         * **Q4 (9 marks)**: sources + own knowledge
     * **Paper 2 (25%)**: essay; 1.5 hours; 30 marks; 15-point markband
         * Topic 10: Authoritarian States + Topic 12: Cold War
         * Must compare leaders from two different IB regions
-            * Hitler (Europe), Castro (the Americas), Mao (Asia & Oceania)
+            * Hitler (Europe), Castro (the Americas), Mao (Asia and Oceania)
         * Cold War pairing: Mao + Nixon; Berlin Blockade + Cuban Missile Crisis
     * **Paper 3 (35%)** and **IA (20%)**: completed in 11th grade
 
@@ -225,7 +225,7 @@
     * Von Papen proposed Hitler as Chancellor, himself as Vice-Chancellor
         * "Within two months we will have pushed Hitler so far into a corner he will squeak."
         * "We've hired him."
-    * **Hindenburg**: 85; called Hitler "the Bohemian corporal"; had refused him twice (August & November 1932)
+    * **Hindenburg**: 85; called Hitler "the Bohemian corporal"; had refused him twice (August and November 1932)
     * **January 30, 1933**: Hitler appointed Chancellor; only 3 Nazis of 12 ministers
     * Hitler refused Vice-Chancellorship; wanted legal appearance for legitimacy
     * **[Richard Evans]**: not inevitable; required complicity of conservative elites who underestimated him
@@ -767,7 +767,7 @@
     * **Family Code (1975)**: equal housework and childcare by law
     * Labor participation ~13% (1953) → ~38% (1987)
     * Machismo; "double burden"; few in top leadership
-    * **[Lois Smith & Alfred Padula]** (*Sex and Revolution*, 1996): real but limited gains
+    * **[Lois Smith and Alfred Padula]** (*Sex and Revolution*, 1996): real but limited gains
     * **[Gott]**: among the Revolution's most important legacies
 
 * **Youth and education**
@@ -849,7 +849,7 @@
     * Universities closed from 1966; entrance exam restored 1977
     * **"Up to the Mountains and Down to the Countryside" (December 1968)**: ~17 million youth
     * "Lost generation"
-    * **[MacFarquhar & Schoenhals]** (*Mao's Last Revolution*, 2006): Red Guards unleashed to destroy rivals
+    * **[MacFarquhar and Schoenhals]** (*Mao's Last Revolution*, 2006): Red Guards unleashed to destroy rivals
     * **[Meisner]**: pre-1966 education brought real gains
 
 * **Religion**
@@ -866,7 +866,7 @@
     * **Hai Rui Dismissed from Office** attacked (November 1965): helped launch Cultural Revolution
     * Jiang Qing's **model operas**: only approved stage works
     * **[MacFarquhar]**: Hundred Flowers was genuine uncertainty
-    * **[Jung Chang & Jon Halliday]** (*Mao: The Unknown Story*, 2005): deliberate trap (methodology criticized)
+    * **[Jung Chang and Jon Halliday]** (*Mao: The Unknown Story*, 2005): deliberate trap (methodology criticized)
 
 * **Minorities**
     * Class enemies: landlords, counter-revolutionaries, rightists
@@ -951,7 +951,7 @@
 
 ### 3.1: Causes of Japanese Expansion
 
-* **Nationalism & militarism**
+* **Nationalism and militarism**
     * **Meiji Constitution (1889)**: Emperor held supreme command of army/navy (Article 11)
     * **Right of supreme command**: General Staffs reported to Emperor, not PM/cabinet
     * Services could topple a cabinet by withholding an Army/Navy Minister
@@ -1027,7 +1027,7 @@
 * **Responses**
     * **League (February 1933)**: Assembly adopts report 42–1 (Japan against); Manchukuo illegitimate; non-recognition; no sanctions; no force
     * **Japan**: delegation walks out; withdraws from League March 27, 1933; pushes into Jehol (early 1933); Puyi crowned Emperor (1934)
-    * **Britain & France**: Depression recovery first; protecting Hong Kong, Indochina, China trade; no sanctions
+    * **Britain and France**: Depression recovery first; protecting Hong Kong, Indochina, China trade; no sanctions
     * **U.S.**: not a League member; moral condemnation only
     * **China**: appealed repeatedly; sympathy, no military support
 

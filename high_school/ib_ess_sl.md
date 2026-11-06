@@ -30,7 +30,7 @@
 * Ways you can value something
     * **Instrumental**: means to a desired end
     * **Intrinsic**: assigned values; worth protecting
-    * **Relational**: people-nature interactions & interactions of people via nature
+    * **Relational**: people-nature interactions and interactions of people via nature
 
 * **Value indicators**: quantitative/qualitative, reflecting nature's importance
 
@@ -247,7 +247,7 @@
 
 * **Maximum Sustainable Yield (MSY)**: highest rate equal to NPP/NSP
 
-* **Carrying capacity & thermodynamics**: second law; closest to producers have higher carrying capacity
+* **Carrying capacity and thermodynamics**: second law; closest to producers have higher carrying capacity
 
 
 
